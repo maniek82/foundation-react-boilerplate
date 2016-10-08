@@ -8,6 +8,7 @@ require('style!css!foundation-sites/dist/foundation.min.css')
 $(document).foundation();
 
 ReactDOM.render(
+  <h2 className="text-center">Foundation - React - Webpack - Template</h2>,
   // <Router history={hashHistory}>
   //   <Route path="/" component={}>
   //     // <Route path=" " component{}=/>
